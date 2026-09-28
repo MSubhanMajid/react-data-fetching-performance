@@ -1,0 +1,70 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Welcome",
+      "content": "This is your first note."
+    },
+    {
+      "id": "2",
+      "title": "Groceries",
+      "content": "Milk, eggs, bread."
+    },
+    {
+      "id": "3",
+      "title": "React Tips",
+      "content": "Remember to use keys in lists."
+    },
+    {
+      "id": "4",
+      "title": "Meeting Notes",
+      "content": "Discuss Q3 roadmap."
+    },
+    {
+      "id": "5",
+      "title": "Book List",
+      "content": "Atomic Habits, Deep Work."
+    },
+    {
+      "id": "6",
+      "title": "Travel Plans",
+      "content": "Visit Lahore in October."
+    },
+    {
+      "id": "7",
+      "title": "Recipe",
+      "content": "Chicken biryani ingredients."
+    },
+    {
+      "id": "8",
+      "title": "Workout Plan",
+      "content": "Push, pull, legs split."
+    },
+    {
+      "id": "9",
+      "title": "Ideas",
+      "content": "Build a habit tracker app."
+    },
+    {
+      "id": "10",
+      "title": "Bug List",
+      "content": "Fix the login redirect issue."
+    },
+    {
+      "id": "11",
+      "title": "Grocery Run 2",
+      "content": "Need more coffee."
+    },
+    {
+      "id": "12",
+      "title": "React Router Notes",
+      "content": "Nested routes and outlets."
+    },
+    {
+      "title": "Another Noteeeeeeeee",
+      "content": "This is another note.",
+      "id": "fzd1Aug_n2I"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
